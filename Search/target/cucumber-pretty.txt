@@ -1,0 +1,3 @@
+
+@tag @tag1
+Scenario: To validate the appearance of search icon in header part of the screen # Features/Feature_10_SearchBar.feature:28
